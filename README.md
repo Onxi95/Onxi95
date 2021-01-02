@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Paweł
 #### I am a student looking for new projects
 
-(http://www.the-sowa.com/banner.png)
+![](http://www.the-sowa.com/banner.png)
 
 Skills: I feel comfortable in React, HTML, CSS, JavaScript, Python and Django
 
