@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Paweł
+#### I am a student looking for new projects
 
-<!--
-**Onxi95/Onxi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: I feel comfortable in React, HTML, CSS, JavaScript, Python and Django
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on web scraper based on REST API (Django) and React 
+- 🌱 I’m currently learning React and Vue 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Onxi95)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onxi95)](https://github.com/anuraghazra/github-readme-stats)
+
