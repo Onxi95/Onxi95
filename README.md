@@ -5,7 +5,7 @@ Skills: I feel comfortable in React, TypeScript, NextJS, HTML, SCSS, JavaScript,
 
 I am a free software enthusiast 🐧
 
-See more (in polish): [https://meet.the-sowa.com/](https://meet.the-sowa.com/)
+See more: [https://meet.the-sowa.com/](https://meet.the-sowa.com/)
 
 or contact me: pawel@the-sowa.com ✉️
 
