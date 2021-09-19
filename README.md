@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Paweł
+### Hi there 👋 my name is Paweł
 #### I am a student looking for new projects
 
-Skills: I feel comfortable in React, TypeScript, NextJS, HTML, SCSS, JavaScript, Python and Django
+Skills: I feel comfortable with React, TypeScript, NextJS, HTML, SCSS, JavaScript, Python and Django
 
 I am a free software enthusiast 🐧
 
