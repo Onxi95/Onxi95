@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Paweł
 
-Skills: I feel comfortable with React, TypeScript, NextJS, HTML, SCSS, JavaScript, Python and Django
+Working as a frontend (TS + react) developer, I like to get my hands dirty with python sometimes 🐍
 
-I am a free software enthusiast 🐧
+I am a free software enthusiast 🐧 (I use arch btw)
 
 contact me: pawel@the-sowa.com ✉️
