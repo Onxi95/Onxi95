@@ -1,7 +1,10 @@
 ### Hi there 👋 my name is Paweł
 
-Working as a frontend (TypeScript + React) engineer, I like to get my hands dirty with python sometimes 🐍
+* Working as a frontend (TypeScript + React) engineer, I like to get my hands dirty with python sometimes 🐍
 
-I am a free software enthusiast 🐧 (I use arch btw)
+* Advent of TypeScript 2023 - Platinum badge 🎉 https://typehero.dev/@Onxi95
 
-contact me: pawel@the-sowa.com ✉️
+* I am a free software enthusiast 🐧 (I use arch btw)
+
+* contact me: pawel@the-sowa.com ✉️
+
